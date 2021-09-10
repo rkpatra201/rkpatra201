@@ -1,8 +1,8 @@
 ### Hi, I am here.👋. How are you?
 
-- 🔭 I’m currently working on Java 8, Spring, Spring Boot, Angular 8+, Docker, Kubernetes, HyScale, Rapid Application Development Product.
-- 🌱 I’m currently learning Aws, Cka, Ckad, Salesforce, microservices.io (patterns a book by Chris Richardson)
-- 💬 Ask me about Rapid Application Development Tool (Design & Development)
+- 🔭 I’m currently working on Java 8, Spring, Spring Boot, React Js, Docker, Kubernetes, Rapid Application Development Product.
+- 🌱 I’m currently learning ElasticSearch, Apache Storm, Cassandra, microservices.io (patterns a book by Chris Richardson)
+- 💬 Ask me about Rapid Application Development Tool (Design & Development).
 - 📫 How to reach me: iamrkpatra@gmail.com
 
 
